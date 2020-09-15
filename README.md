@@ -4,8 +4,8 @@ material for computer science, java and algorithm course CSE007
 Here is the check-list of things to install prior to our first course tomorrow. ''READ CAREFULLY''. Some of this apply to Mac, some linux, some Windows. READ FIRST. We roughly follow the guidelines provided here [https://github.com/jfiksel/github-classroom-for-students] for another class of another language. We do the same (expect for RStudio replaced by IntellJ IDEA) and stop there ([https://github.com/jfiksel/github-classroom-for-students#steps-for-downloading-and-editing-assignments-from-github-classroom]). So you can use this as a reference.
 
 ## 1 - GitHub account
-	**why?** To download and upload your exercises and project on a developer platform
-	**how?** simply head to [https://github.com/] and register yourself. The email you use for that is not important so it does not have to be Lehigh. If you use Lehigh though you can get special offer with GitHub education. You will use GitHub a lot in your education/professional life. We recommend using a username that incorporates your name (mine is fpfaende)
+	''why?'' To download and upload your exercises and project on a developer platform
+	''how?'' simply head to [https://github.com/] and register yourself. The email you use for that is not important so it does not have to be Lehigh. If you use Lehigh though you can get special offer with GitHub education. You will use GitHub a lot in your education/professional life. We recommend using a username that incorporates your name (mine is fpfaende)
 
 ## 2 - a Java software
 	**why?** We will study computer science through Java language, so we need a software that understand java code and help you write it.
