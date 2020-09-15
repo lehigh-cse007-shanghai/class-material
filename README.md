@@ -1,4 +1,4 @@
-** # Class Material
+# Class Material
 material for computer science, java and algorithm course CSE007
 
 Here is the check-list of things to install prior to our first course tomorrow. ''READ CAREFULLY''. Some of this apply to Mac, some linux, some Windows. READ FIRST. We roughly follow the guidelines provided here [https://github.com/jfiksel/github-classroom-for-students] for another class of another language. We do the same (expect for RStudio replaced by IntellJ IDEA) and stop there ([https://github.com/jfiksel/github-classroom-for-students#steps-for-downloading-and-editing-assignments-from-github-classroom]). So you can use this as a reference.
